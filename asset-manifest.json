@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mrwilbroad.github.io/static/css/main.406fbca9.css",
+    "main.js": "/mrwilbroad.github.io/static/js/main.a438be8e.js",
+    "static/js/787.df885ca0.chunk.js": "/mrwilbroad.github.io/static/js/787.df885ca0.chunk.js",
+    "static/media/uhuru_umoja.png": "/mrwilbroad.github.io/static/media/uhuru_umoja.960a946259288d6074e8.png",
+    "static/media/slide-3.jpg": "/mrwilbroad.github.io/static/media/slide-3.e1c69a9a6e131f9fb5f0.jpg",
+    "static/media/prof_hamad.jpg": "/mrwilbroad.github.io/static/media/prof_hamad.9c857ee4036a85d75104.jpg",
+    "static/media/hospital_logo.png": "/mrwilbroad.github.io/static/media/hospital_logo.89603f152ef56523be9b.png",
+    "index.html": "/mrwilbroad.github.io/index.html",
+    "main.406fbca9.css.map": "/mrwilbroad.github.io/static/css/main.406fbca9.css.map",
+    "main.a438be8e.js.map": "/mrwilbroad.github.io/static/js/main.a438be8e.js.map",
+    "787.df885ca0.chunk.js.map": "/mrwilbroad.github.io/static/js/787.df885ca0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406fbca9.css",
+    "static/js/main.a438be8e.js"
+  ]
+}
