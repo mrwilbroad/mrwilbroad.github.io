@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "message_english": "I recently had surgery at Mtongani Hospital and I was extremely impressed with the level of care I received. The medical staff were knowledgeable and compassionate, and they made me feel at ease throughout the entire process. I would definitely recommend this hospital to anyone in need of medical care.",
+        "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/female-0ne.avif",
+        "message_swahil": null,
+        "from": "Fatma Saidi, Dar es Salaam"
+    },
+     {
+        "id": "2",
+        "message_english": "I had to take my child to Mtongani Hospital for an emergency procedure and I was blown away by the quality of care we received. The doctors and nurses were incredibly skilled and attentive, and they made sure my child was comfortable and well-cared for throughout the entire process. I am so grateful for the wonderful care we received at Mtongani Hospital.",
+        "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/nmale-five.avif",
+        "message_swahil": null,
+        "from": "Jacob Nyatuhuolio, Kenya"
+    },
+    {
+        "id": "3",
+        "message_english": "I came here for kidney treatment and I was very pleased with how I was treated. The hospital has state-of-the-art equipment and the doctors are experts in their field",
+        "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/nfemale-one.avif",
+        "message_swahil": "Nilikuja hapa kwa matibabu ya figo na nilifurahishwa sana na jinsi nilivyotendewa. Hospitali ina vifaa vya hali ya juu na madaktari ni wataalamu katika fani yao.",
+        "from": "Amina Ali, Zanzibar"
+    },
+    {
+        "id": "4",
+       "message_english": "I had to visit Mtongani Hospital for a routine check-up and I was very impressed with the facilities and the level of care I received. The hospital is clean and modern, and the staff are friendly and professional. I would definitely recommend this hospital to anyone looking for quality medical care.",
+       "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/nmale-four.avif",
+       "message_swahil": null,
+       "from": "Yusuf Mohamed, Arusha"
+   },
+   {
+    "id": "5",
+       "message_english": "I recently had to undergo a medical procedure at Mtongani Hospital and I was extremely impressed with the level of expertise and care I received. The medical staff were knowledgeable, compassionate, and dedicated to ensuring my comfort and well-being throughout the entire process. I am grateful to have received such excellent care at this hospital.",
+       "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/female-thr.avif",
+       "message_swahil": null,
+       "from": "Grace Maganga, Dodoma"
+   },
+   {
+    "id": "6",
+      "message_english": "I am very happy with how the staff at Mtongani Hospital take care of their patients. They work hard and ensure that patients receive the best treatment",
+      "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/female-two.avif",
+      "message_swahil": "Nimefurahi sana na jinsi ambavyo wafanyakazi wa hospitali ya Mtongani wanavyotunza wagonjwa wao. Wao hufanya kazi kwa bidii na wanahakikisha kuwa wagonjwa wanapata matibabu bora",
+      "from": "Habiba Ali, Kimara-Dar-es salam"
+  },
+  {
+    "id": "7",
+      "message_english": "I have been coming to Mtongani Hospital for many years and I am impressed with the ability of the doctors. They are very skilled and are always ready to help their patients",
+      "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/nmale-one.avif",
+      "message_swahil": "Nimekuwa nikija hospitali ya Mtongani kwa miaka mingi na nimevutiwa sana na uwezo wa madaktari. Wao ni wenye ujuzi mkubwa na wako tayari kusaidia wagonjwa wao.",
+      "from": "Bakari Ahmed, Kigoma"
+  }
+
+  ,
+   {
+    "id": "8",
+      "message_english": "I brought my child here for treatment of a severe fever and I was very happy with how they were treated. The hospital staff were compassionate and gave me good advice on how to take care of my child.",
+      "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/nmale-th.avif",
+      "message_swahil": "Nilimleta mtoto wangu hapa kwa matibabu ya homa kali na nilifurahia sana jinsi alivyotendewa. Wafanyakazi wa hospitali walikuwa wenye huruma na walinipa ushauri mzuri juu ya jinsi ya kumtunza",
+      "from": "Fatma Saidi, Kimara-Dar-es salam"
+  },
+  {
+    "id": "9",
+      "message_english": "I came here to give birth and I was very happy with the service I received. The nurses were kind and gave me good advice on how to take care of my baby",
+      "img": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/nmale-two.avif",
+      "message_swahil": "Nilikuja hapa kwa ajili ya kujifungua na nilifurahi sana na huduma niliyopata. Wauguzi walikuwa wakarimu na walinipa ushauri mzuri kuhusu jinsi ya kutunza mtoto wangu.",
+      "from": "Abdalah Kimasiolo, Mtwara"
+  }
+]

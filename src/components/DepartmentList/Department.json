@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Emergency Department",
+        "description": "The Women and Child Health Department at Mtongani Hospital is dedicated to providing quality healthcare services for women and children of all ages",
+        "location": "Ground Floor, Room 107",
+        "email": "emergency@mtonganihospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/emergency-bed.avif",
+        "doctor":"doct Charles Kimaro",
+        "disease":"The department offers a wide range of services, including prenatal and postnatal care, family planning, pediatric care, gynecological exams, breast cancer screenings, and treatment of sexually transmitted infections"
+    },
+    {
+        "name": " Women and Child Health Department",
+        "description": "The Emergency Department is the first point of contact for patients with serious or life-threatening medical conditions. It is staffed by highly trained doctors, nurses, and other medical professionals who are available 24/7 to provide rapid assessment, diagnosis, and treatment. The Emergency Department is equipped with state-of-the-art technology to support advanced medical procedures and interventions",
+        "location": "Third Floor, Room 107, First wing",
+        "email": "womenandchild@mtonganihospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/women-child.avif",
+        "doctor":"doct Mpagalor Kipimb",
+        "disease":"heart attack, stroke, severe injuries, severe allergic reactions, and other life-threatening conditions"
+    },
+    {
+        "name": "Radiology Department",
+        "description": "The Radiology Department provides diagnostic imaging services to help diagnose and treat various medical conditions. It uses advanced imaging technology, including X-rays, CT scans, MRI scans, and ultrasounds, to produce detailed images of the inside of the body",
+        "location": "Location: Ground Floor, Room 102",
+        "email": "Email: radiology@mtonganihospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/radiology.avif",
+        "doctor":"doct Nehemia Abdalah",
+        "disease":"bone fractures, tumors, internal bleeding, and other conditions requiring diagnostic imaging"
+    },{
+        "name": "Pulmonology Department",
+        "description": "The Pulmonology Department specializes in the diagnosis and treatment of respiratory disorders. It includes services such as diagnostic testing, medication management, and rehabilitation",
+        "location": "First Floor, Room 201",
+        "email": "pulmonology@hospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/emergency-bed.avif",
+        "doctor":"doct Glory Tarimo",
+        "disease":"asthma, COPD, pneumonia, lung cancer, and other respiratory disorders"
+    },{
+        "name": "Gastroenterology Department",
+        "description": "The Gastroenterology Department specializes in the diagnosis and treatment of digestive disorders. It provides services such as endoscopy, colonoscopy, and nutritional counseling",
+        "location": "Second Floor, Room 301",
+        "email": "gastroenterology@mtonganihospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/Gastroenterology.avif",
+        "doctor":"doct Daudi Tibaijuka",
+        "disease":"irritable bowel syndrome, GERD, inflammatory bowel disease, and other digestive disorders"
+    },{
+        "name": "Cancellation Department",
+        "description": "The Cancellation Department is responsible for processing and managing the cancellation of appointments and medical procedures. Patients can request cancellation of their appointments through this department",
+        "location": "2nd floor, Room 205",
+        "email": "cancel@mtonganihospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/cancelling.avif",
+        "doctor":"doct Marium KIgwadalah",
+        "disease":"Cancellation of medical appointments and procedures"
+    },{
+        "name": "Obstetrics and Gynecology",
+        "description": "Our obstetrics and gynecology department provides comprehensive care for women throughout all stages of life, from pregnancy to menopause. Our team of experienced obstetricians and gynecologists provides preventive care, prenatal care, labor and delivery services, and management of gynecological conditions",
+        "location": "Second floor, West Wing",
+        "email": "obgyn@mtonganihospital.co.tz",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/emergency-bed.avif",
+        "doctor":"doct Faustina Kihongoli",
+        "disease":"Prenatal care, childbirth, family planning, infertility, menstrual problems, and menopause"
+    },{
+        "name": "Medication Department",
+        "description": "The Medication Department is responsible for the procurement, storage, and dispensing of medication to patients. This department ensures that patients receive the correct medication and dosage as prescribed by their physicians",
+        "location": "Ground floor, Room 108",
+        "email": "medication@mtonganihospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/medication.avif",
+        "doctor":"doct Mfugale Tibaijuka",
+        "disease":"Dispensing of medication, prescription refills, medication counseling, medication storage and handling"
+    },{
+        "name": "HIV Special Counseling",
+        "description": "Provides counseling services to individuals with HIV and AIDS. The department also offers education and support for those affected by the virus.",
+        "location": " Ground Floor, Wing B",
+        "email": " hivcounseling@mtonganihospital.com",
+        "mobile": "+255-626-195-167",
+        "image": "https://raw.githubusercontent.com/mrwilbroad/quality-images/main/nHID.avif",
+        "doctor":"doct Hussein Kombo",
+        "disease":"HIV/AIDS"
+    }
+]

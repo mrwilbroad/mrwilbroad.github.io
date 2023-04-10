@@ -1,0 +1,45 @@
+[
+    {
+        "id":"1",
+        "question":"Where is the hospital located?",
+        "answer": "The hospital is located in Mbezi, a neighborhood in the northwestern part of Dar es Salaam, which is the largest city in Tanzania. The exact address and directions to the hospital can be found on our website or by contacting our hospital directly"
+    },
+    {
+        "id":"2",
+        "question":"What are your visiting hours?",
+        "answer": "Our visiting hours are from 10:00 am to 8:00 pm every day. However, due to COVID-19 restrictions, we are currently limiting visitors to one per patient."
+    },
+    {
+        "id":"3",
+        "question":"Do I need a referral to see a specialist?",
+        "answer": "Yes, you can pay your bill online through our secure patient portal. You will need your account number and billing information to access the portal"
+    },{
+        "id":"4",
+        "question":"What do I need to bring with me for my appointment?",
+        "answer": "Please bring your insurance card, a photo ID, and a list of any medications you are currently taking. If you are a new patient, please arrive 15 minutes early to complete paperwork."
+    },{
+        "id":"5",
+        "question":"How do I schedule an appointment?",
+        "answer": "You can schedule an appointment by calling our office during business hours or using our online appointment scheduling system. Please have your insurance information and preferred appointment time ready"
+    },{
+        "id":"6",
+        "question":"What do I do if I need to cancel my appointment?",
+        "answer": "Please call our office at least 24 hours before your scheduled appointment to cancel or reschedule. This allows us to offer the appointment time to another patient"
+    },{
+        "id":"7",
+        "question":"How do I request a prescription refill?",
+        "answer": "You can request a prescription refill by calling our office or using our online patient portal. Please allow 48 hours for your request to be processed"
+    },{
+        "id":"8",
+        "question":"Do you offer telemedicine appointments?",
+        "answer": "Yes, we offer telemedicine appointments for certain conditions. Please contact our office to see if you are eligible for a telemedicine appointment"
+    },{
+        "id":"9",
+        "question":"What should I do if I have a medical emergency?",
+        "answer": "If you have a medical emergency, call 911 or go to the nearest emergency room. Do not wait to seek medical attention."
+    },{
+        "id":"10",
+        "question":"How do I access my medical records?",
+        "answer": "You can access your medical records through our patient portal. If you need a copy of your medical records, please contact our office and we will provide you with the necessary forms, see our hospital system(Mtongani Hospital Patient-Portal(MHPP)) for all patients with full online registration ,daily exercise and some medical cancelling that is sometimes done online to reduce paperwork"
+    }
+]
